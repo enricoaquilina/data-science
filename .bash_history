@@ -119,3 +119,29 @@ ls
 sudo jupyter notebook --allow-root
 jupyter notebook
 sudo jupyter notebook --allow-root
+sudo jupyter notebook --allow-root
+xx  
+sudo jupyter notebook --allow-root
+pip install matplotlib
+sudo pip install matplotlib
+pwd
+ls
+cd MultipleLinearRegression/
+ls
+cd ..
+ls
+clear
+git init
+git status
+git add .
+sudo git add .
+git status
+git remote add origin git remote add origin https://github.com/enricoaquilina/data-science.git
+git remote add origin https://github.com/enricoaquilina/data-science.git
+git push -u origin master
+git status
+git commit -am "pushing linear regression"
+git config --global user.email "perieratutopia@gmail.com"
+git config --global user.name "enricoaquilina"
+git commit -am "pushing linear regression"
+sudo su
