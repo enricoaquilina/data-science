@@ -152,3 +152,6 @@ git add .
 sudo su
 sudo jupyter notebook --allow-rrot
 sudo jupyter notebook --allow-root
+git status
+git add .
+sudo su
