@@ -145,3 +145,10 @@ git config --global user.email "perieratutopia@gmail.com"
 git config --global user.name "enricoaquilina"
 git commit -am "pushing linear regression"
 sudo su
+pwd
+ls
+git status
+git add .
+sudo su
+sudo jupyter notebook --allow-rrot
+sudo jupyter notebook --allow-root

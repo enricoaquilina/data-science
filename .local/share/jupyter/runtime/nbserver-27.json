@@ -1,0 +1,11 @@
+{
+  "base_url": "/", 
+  "hostname": "localhost", 
+  "notebook_dir": "/home/eaquilina", 
+  "password": false, 
+  "pid": 27, 
+  "port": 8888, 
+  "secure": false, 
+  "token": "d6c175418ba383be69250e937de8b948238b3ff7c9a144a2", 
+  "url": "http://localhost:8888/"
+}
