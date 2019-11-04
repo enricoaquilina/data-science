@@ -155,3 +155,22 @@ sudo jupyter notebook --allow-root
 git status
 git add .
 sudo su
+sudo jupyter notebook --allow-root
+cd /mnt/c/Users/
+cd e.aquilina/
+ls
+cd 'My
+sudo su
+ls
+pwd
+ls
+explorer.exe
+cd ~
+ls
+pwd
+cd /mnt/
+ls
+cd c
+ls
+cd ~
+sudo su
