@@ -184,3 +184,9 @@ git add .
 sudo su
 sudo jupyter notebook --allow-root
 eaquilina
+sudo su 
+cd /home/eaquilina/
+ls
+git status
+git add .
+sudo su
